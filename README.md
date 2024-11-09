@@ -11,7 +11,7 @@
 - Bar: [EWW](https://github.com/elkowar/eww)
 - Editor: Neovim
 <!--![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) -->
-## 🛠️ Tech Stack
+## 🛠️ Current Stack
 - Languages: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 - Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - Backend: ![Rocket](https://img.shields.io/badge/-Rocket-D33847?style=flat&logo=rust&logoColor=white)
