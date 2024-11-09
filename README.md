@@ -5,7 +5,7 @@
 
 🌱 Currently learning: Rust/Rocket, React
 
-## [Linux Setup](https://github.com/hexolexo/config)
+## [Linux Setup](https://github.com/hexolexo/dotfiles)
 - OS: NixOS
 - TWM: [Hyprland](https://hyprland.org/)
 - Bar: [EWW](https://github.com/elkowar/eww)
