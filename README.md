@@ -10,11 +10,11 @@
 - TWM: [Hyprland](https://hyprland.org/)
 - Bar: [EWW](https://github.com/elkowar/eww)
 - Editor: Neovim
-<!--![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) -->
+
 ## 🛠️ Current Stack
 - Languages: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-- Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- Backend: ![Rocket](https://img.shields.io/badge/-Rocket-D33847?style=flat&logo=rust&logoColor=white)
+- Frontend: Vannilla JS
+- Backend: Still figuring it out
 - Tools: ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
